@@ -2,9 +2,9 @@
 
 #### Facts about me:
 - Speedrunning financial freedom
-- Coding since March 2025
+- Munich, Germany
 
-#### 2025 Goals:
+#### Goals:
 - Launch first *real* web app
-- Make $1M in rev before 18
+- Make $1M in rev before 20
 - Complete an ironman
